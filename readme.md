@@ -1,8 +1,8 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+﻿# JavaScript30
 
-# JavaScript30
+(<https://javascript30.com/images/JS3-social-share.png>)
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+This is my JavaScript 30 days repository
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
@@ -31,7 +31,7 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [Lee Keitel's Blog](https://blog.keitel.xyz/categories/javascript30/) includes summaries of each lesson, what I learned from each one, and my thoughts about the topic taught and using them in the future.
 * [Dustin Hsiao](https://github.com/dustinhsiao21/Javascript30-dustin) 包含了各篇介紹、 效果Demo、各篇詳解及記錄過程，附上部分延伸閱讀及[gh-page](https://dustinhsiao21.github.io/Javascript30-dustin/)。
 * [GuaHsu](https://github.com/guahsu/JavaScript30) - 紀錄各篇練習過程與心得，並嘗試擴充部分練習，也做了一個包含全部練習的[介紹站](http://guahsu.io/JavaScript30/)🇹🇼
-* [Daniela](https://github.com/misslild)'s completed challenges on [GitHub Pages](https://misslild.github.io/WesBos-30day-Coding-challenge/) and [Codepen].(https://codepen.io/collection/DapZeP/) :raised_hands: :muscle: :+1:
+* [Daniela](https://github.com/misslild)'s completed challenges on [GitHub Pages](https://misslild.github.io/WesBos-30day-Coding-challenge/) and [Codepen].(<https://codepen.io/collection/DapZeP/>) :raised_hands: :muscle: :+1:
 * [Dmitrii Pashutskii's](https://github.com/guar47) code of all challenges on [GitHub with Pages](https://github.com/guar47/javascript30Summary) and review [blog posts](https://blog.dpashutskii.com/tag/javascript30/).
 * [Abid Hasan's](https://github.com/sabidhasan/javascript-30) completion of all challenges. This was awesome!! Learned so much! :+1:
 * [Yusong Notes](https://sky172839465.github.io/course/js30) Records Yusong JS 30 days note and demo. :star2:
@@ -45,7 +45,7 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [Ramon Morcillo](https://github.com/reymon359/JavaScript30) finished this awesome challenge!. You can see the showcase of his implementations on [this link](https://reymon359.github.io/JavaScript30/).
 * [Santiago Escobar](https://github.com/sescobar99)'s [repository](https://github.com/sescobar99/javascript30-challenge) and [GitHub Pages showcase](https://sescobar99.github.io/javascript30-challenge/).
 * [Harry Xie](https://github.com/a90100/JavaScript30) 紀錄 30 天的練習筆記在 [此連結](https://github.com/a90100/JavaScript30).
-* [ Van Ribeiro's ](https://vanribeiro-30daysofjavascript.netlify.app/) about demos and recaps. On [GitHub Repo](https://github.com/vanribeiro/30days-Of-JavaScript) there's a summary about what was learned and researched.
+* [Van Ribeiro's](https://vanribeiro-30daysofjavascript.netlify.app/) about demos and recaps. On [GitHub Repo](https://github.com/vanribeiro/30days-Of-JavaScript) there's a summary about what was learned and researched.
 * [Mugilan](https://github.com/Mugilan-Codes) is currently doing this challenge. Check out his [Repo](https://github.com/Mugilan-Codes/javascript-30) and the [Live Demo](https://mugilan-codes.github.io/javascript-30/).
 * [Eshan Vohra](https://github.com/eshanvohra) is currently doing this challenge. Check out my repo [here](https://github.com/eshanvohra/JavaScript30).
 * [RegusAl](https://github.com/RegusAl) is currently doing this challenge. Check out my repo [here](https://github.com/RegusAl/JavaScript30).
@@ -56,6 +56,7 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [Kelly CHI's](https://kellychi22.github.io/JavaScript30/) complete JavaScript30 challenges! Click the links to check demos and notes of each challenge. 🇹🇼 🌟
 
 ## Alternative Implementations
+
 Here are some links of people who have done the tutorials, but in a different language or framework:
 
 * [Thomas Mattacchione](https://github.com/tkjone/clojurescript-30) JavaScript 30 written in ClojureScript.
