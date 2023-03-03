@@ -1,6 +1,6 @@
 ﻿# JavaScript30
 
-(<https://javascript30.com/images/JS3-social-share.png>)
+![JS3-Banner](<https://javascript30.com/images/JS3-social-share.png>)
 
 This is my JavaScript 30 days repository
 
